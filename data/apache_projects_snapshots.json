@@ -1,0 +1,2848 @@
+[
+  {
+    "slug": "ant-dotnet",
+    "name": "Apache .NET Ant Library",
+    "homepage": "http://ant.apache.org/antlibs/dotnet/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-dotnet.git"
+    ]
+  },
+  {
+    "slug": "accumulo",
+    "name": "Apache Accumulo",
+    "homepage": "https://accumulo.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/accumulo.git"
+    ]
+  },
+  {
+    "slug": "activemq",
+    "name": "Apache ActiveMQ",
+    "homepage": "http://activemq.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "age",
+    "name": "Apache AGE",
+    "homepage": "https://age.apache.org/",
+    "repositories": [
+      "https://github.com/apache/age"
+    ]
+  },
+  {
+    "slug": "airavata",
+    "name": "Apache Airavata",
+    "homepage": "http://airavata.apache.org",
+    "repositories": [
+      "https://git.apache.org/repos/asf/airavata.git"
+    ]
+  },
+  {
+    "slug": "airflow",
+    "name": "Apache Airflow",
+    "homepage": "https://airflow.apache.org",
+    "repositories": [
+      "https://github.com/apache/airflow.git"
+    ]
+  },
+  {
+    "slug": "allura",
+    "name": "Apache Allura",
+    "homepage": "http://allura.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "ambari",
+    "name": "Apache Ambari",
+    "homepage": "https://ambari.apache.org",
+    "repositories": [
+      "https://github.com/apache/ambari.git"
+    ]
+  },
+  {
+    "slug": "velocity-anakia",
+    "name": "Apache Anakia",
+    "homepage": "http://velocity.apache.org/anakia/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/velocity/anakia/trunk"
+    ]
+  },
+  {
+    "slug": "incubator-annotator",
+    "name": "Apache Annotator",
+    "homepage": "http://annotator.apache.org",
+    "repositories": [
+      "http://git@github.com:apache/incubator-annotator.git"
+    ]
+  },
+  {
+    "slug": "answer",
+    "name": "Apache Answer",
+    "homepage": "https://answer.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "ant",
+    "name": "Apache Ant",
+    "homepage": "http://ant.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant.git"
+    ]
+  },
+  {
+    "slug": "ant-antunit",
+    "name": "Apache AntUnit",
+    "homepage": "http://ant.apache.org/antlibs/antunit/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-antunit.git"
+    ]
+  },
+  {
+    "slug": "attic-any23",
+    "name": "Apache Any23",
+    "homepage": "http://any23.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/any23.git"
+    ]
+  },
+  {
+    "slug": "attic-apex",
+    "name": "Apache Apex",
+    "homepage": "http://apex.apache.org",
+    "repositories": [
+      "https://github.com/apache/apex-core.git",
+      "https://github.com/apache/apex-malhar.git"
+    ]
+  },
+  {
+    "slug": "apisix",
+    "name": "Apache Apisix",
+    "homepage": "https://apisix.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-archiva",
+    "name": "Apache Archiva",
+    "homepage": "https://archiva.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/archiva.git",
+      "https://gitbox.apache.org/repos/asf/archiva-parent.git"
+    ]
+  },
+  {
+    "slug": "aries",
+    "name": "Apache Aries",
+    "homepage": "https://aries.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/aries/"
+    ]
+  },
+  {
+    "slug": "arrow",
+    "name": "Apache Arrow",
+    "homepage": "https://arrow.apache.org",
+    "repositories": [
+      "https://github.com/apache/arrow.git"
+    ]
+  },
+  {
+    "slug": "artemis",
+    "name": "Apache Artemis",
+    "homepage": "https://artemis.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "asterixdb",
+    "name": "Apache Asterixdb",
+    "homepage": "https://asterixdb.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "atlas",
+    "name": "Apache Atlas",
+    "homepage": "https://atlas.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "avro",
+    "name": "Apache Avro",
+    "homepage": "https://avro.apache.org",
+    "repositories": [
+      "https://github.com/apache/avro.git"
+    ]
+  },
+  {
+    "slug": "ws-axiom",
+    "name": "Apache Axiom",
+    "homepage": "http://ws.apache.org/axiom/",
+    "repositories": [
+      "https://github.com/apache/ws-axiom"
+    ]
+  },
+  {
+    "slug": "axis-axis2",
+    "name": "Apache Axis2",
+    "homepage": "http://axis.apache.org/axis2/java/core",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/axis/axis2/java/core/trunk/"
+    ]
+  },
+  {
+    "slug": "xmlgraphics-batik",
+    "name": "Apache Batik",
+    "homepage": "http://xmlgraphics.apache.org/batik/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xmlgraphics/batik/trunk"
+    ]
+  },
+  {
+    "slug": "beam",
+    "name": "Apache Beam",
+    "homepage": "https://beam.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-beehive",
+    "name": "Apache Beehive",
+    "homepage": "http://beehive.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/beehive/trunk/"
+    ]
+  },
+  {
+    "slug": "bigtop",
+    "name": "Apache Bigtop",
+    "homepage": "http://bigtop.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "bookkeeper",
+    "name": "Apache BookKeeper",
+    "homepage": "http://bookkeeper.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "brooklyn",
+    "name": "Apache Brooklyn",
+    "homepage": "http://brooklyn.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "brpc",
+    "name": "Apache bRPC",
+    "homepage": "https://brpc.apache.org",
+    "repositories": [
+      "git://gitbox.apache.org/repos/asf/brpc.git"
+    ]
+  },
+  {
+    "slug": "attic-buildr",
+    "name": "Apache Buildr",
+    "homepage": "http://buildr.apache.org",
+    "repositories": [
+      "http://git.apache.org/buildr.git"
+    ]
+  },
+  {
+    "slug": "buildstream",
+    "name": "Apache Buildstream",
+    "homepage": "https://buildstream.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "bval",
+    "name": "Apache BVal",
+    "homepage": "http://bval.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/bval/"
+    ]
+  },
+  {
+    "slug": "calcite",
+    "name": "Apache Calcite",
+    "homepage": "https://calcite.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/calcite.git"
+    ]
+  },
+  {
+    "slug": "camel",
+    "name": "Apache Camel",
+    "homepage": "https://camel.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "carbondata",
+    "name": "Apache CarbonData",
+    "homepage": "https://carbondata.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "cassandra",
+    "name": "Apache Cassandra",
+    "homepage": "http://cassandra.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "causeway",
+    "name": "Apache Causeway",
+    "homepage": "https://causeway.apache.org",
+    "repositories": [
+      "https://github.com/apache/causeway.git"
+    ]
+  },
+  {
+    "slug": "cayenne",
+    "name": "Apache Cayenne",
+    "homepage": "https://cayenne.apache.org",
+    "repositories": [
+      "https://github.com/apache/cayenne"
+    ]
+  },
+  {
+    "slug": "celeborn",
+    "name": "Apache Celeborn",
+    "homepage": "https://celeborn.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "celix",
+    "name": "Apache Celix",
+    "homepage": "https://celix.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/celix.git",
+      "https://gitbox.apache.org/repos/asf/celix-site.git"
+    ]
+  },
+  {
+    "slug": "logging-chainsaw",
+    "name": "Apache Chainsaw",
+    "homepage": "http://logging.apache.org/log4j/docs/chainsaw.html",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/logging/chainsaw/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-chemistry",
+    "name": "Apache Chemistry",
+    "homepage": "http://chemistry.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/chemistry/"
+    ]
+  },
+  {
+    "slug": "attic-chukwa",
+    "name": "Apache Chukwa",
+    "homepage": "http://chukwa.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/chukwa/"
+    ]
+  },
+  {
+    "slug": "attic-clerezza",
+    "name": "Apache Clerezza",
+    "homepage": "http://clerezza.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf?p=clerezza.git;a=summary"
+    ]
+  },
+  {
+    "slug": "attic-click",
+    "name": "Apache Click",
+    "homepage": "http://click.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/click/"
+    ]
+  },
+  {
+    "slug": "cloudstack",
+    "name": "Apache CloudStack",
+    "homepage": "http://cloudstack.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-cocoon",
+    "name": "Apache Cocoon",
+    "homepage": "http://cocoon.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/cocoon/trunk/"
+    ]
+  },
+  {
+    "slug": "commons-bcel",
+    "name": "Apache Commons BCEL",
+    "homepage": "http://commons.apache.org/bcel/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-bcel"
+    ]
+  },
+  {
+    "slug": "commons-beanutils",
+    "name": "Apache Commons BeanUtils",
+    "homepage": "https://commons.apache.org/beanutils/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-beanutils.git"
+    ]
+  },
+  {
+    "slug": "commons-bsf",
+    "name": "Apache Commons BSF",
+    "homepage": "http://commons.apache.org/bsf/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-bsf"
+    ]
+  },
+  {
+    "slug": "commons-chain__dormant_",
+    "name": "Apache Commons Chain (Dormant)",
+    "homepage": "http://commons.apache.org/chain/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-chain"
+    ]
+  },
+  {
+    "slug": "commons-cli",
+    "name": "Apache Commons CLI",
+    "homepage": "http://commons.apache.org/cli/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-cli"
+    ]
+  },
+  {
+    "slug": "commons-codec",
+    "name": "Apache Commons Codec",
+    "homepage": "http://commons.apache.org/codec/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-codec"
+    ]
+  },
+  {
+    "slug": "commons-collections",
+    "name": "Apache Commons Collections",
+    "homepage": "http://commons.apache.org/collections/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-collections"
+    ]
+  },
+  {
+    "slug": "commons-compress",
+    "name": "Apache Commons Compress",
+    "homepage": "http://commons.apache.org/compress/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-compress.git"
+    ]
+  },
+  {
+    "slug": "commons-configuration",
+    "name": "Apache Commons Configuration",
+    "homepage": "http://commons.apache.org/configuration/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-configuration"
+    ]
+  },
+  {
+    "slug": "commons-crypto",
+    "name": "Apache Commons Crypto",
+    "homepage": "http://commons.apache.org/crypto/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-crypto.git"
+    ]
+  },
+  {
+    "slug": "commons-csv",
+    "name": "Apache Commons CSV",
+    "homepage": "http://commons.apache.org/csv/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-csv.git"
+    ]
+  },
+  {
+    "slug": "commons-daemon",
+    "name": "Apache Commons Daemon",
+    "homepage": "http://commons.apache.org/daemon/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-daemon"
+    ]
+  },
+  {
+    "slug": "commons-dbcp",
+    "name": "Apache Commons DBCP",
+    "homepage": "http://commons.apache.org/dbcp/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-dbcp"
+    ]
+  },
+  {
+    "slug": "commons-dbutils",
+    "name": "Apache Commons DbUtils",
+    "homepage": "http://commons.apache.org/dbutils/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-dbutils"
+    ]
+  },
+  {
+    "slug": "commons-digester",
+    "name": "Apache Commons Digester",
+    "homepage": "http://commons.apache.org/digester/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-digester"
+    ]
+  },
+  {
+    "slug": "commons-email",
+    "name": "Apache Commons Email",
+    "homepage": "http://commons.apache.org/email/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-email"
+    ]
+  },
+  {
+    "slug": "commons-exec",
+    "name": "Apache Commons Exec",
+    "homepage": "http://commons.apache.org/exec/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-exec"
+    ]
+  },
+  {
+    "slug": "commons-fileupload",
+    "name": "Apache Commons FileUpload",
+    "homepage": "http://commons.apache.org/fileupload/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-fileupload"
+    ]
+  },
+  {
+    "slug": "commons-functor__dormant_",
+    "name": "Apache Commons Functor (Dormant)",
+    "homepage": "http://commons.apache.org/functor/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-functor"
+    ]
+  },
+  {
+    "slug": "commons-geometry",
+    "name": "Apache Commons Geometry",
+    "homepage": "http://commons.apache.org/geometry/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf?p=commons-geometry.git"
+    ]
+  },
+  {
+    "slug": "httpcomponents-commons_httpclient",
+    "name": "Apache Commons HttpClient",
+    "homepage": "http://hc.apache.org/httpclient-3.x/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/httpcomponents/oac.hc3x/trunk"
+    ]
+  },
+  {
+    "slug": "commons-imaging",
+    "name": "Apache Commons Imaging",
+    "homepage": "http://commons.apache.org/imaging/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-imaging"
+    ]
+  },
+  {
+    "slug": "commons-io",
+    "name": "Apache Commons IO",
+    "homepage": "http://commons.apache.org/io/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-io"
+    ]
+  },
+  {
+    "slug": "commons-jci",
+    "name": "Apache Commons JCI",
+    "homepage": "http://commons.apache.org/jci/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-jci"
+    ]
+  },
+  {
+    "slug": "commons-jcs",
+    "name": "Apache Commons JCS",
+    "homepage": "http://commons.apache.org/jcs/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-jcs.git"
+    ]
+  },
+  {
+    "slug": "commons-jelly",
+    "name": "Apache Commons Jelly",
+    "homepage": "http://commons.apache.org/jelly/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-jelly"
+    ]
+  },
+  {
+    "slug": "commons-jexl",
+    "name": "Apache Commons JEXL",
+    "homepage": "http://commons.apache.org/jexl/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-jexl"
+    ]
+  },
+  {
+    "slug": "commons-jxpath",
+    "name": "Apache Commons JXPath",
+    "homepage": "http://commons.apache.org/jxpath/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-jxpath"
+    ]
+  },
+  {
+    "slug": "commons-lang",
+    "name": "Apache Commons Lang",
+    "homepage": "http://commons.apache.org/lang/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-lang.git"
+    ]
+  },
+  {
+    "slug": "commons-logging",
+    "name": "Apache Commons Logging",
+    "homepage": "http://commons.apache.org/logging/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-logging"
+    ]
+  },
+  {
+    "slug": "commons-math",
+    "name": "Apache Commons Math",
+    "homepage": "http://commons.apache.org/math/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-math.git"
+    ]
+  },
+  {
+    "slug": "commons-net",
+    "name": "Apache Commons Net",
+    "homepage": "http://commons.apache.org/net/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-net"
+    ]
+  },
+  {
+    "slug": "commons-numbers",
+    "name": "Apache Commons Numbers",
+    "homepage": "http://commons.apache.org/numbers/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf?p=commons-numbers.git"
+    ]
+  },
+  {
+    "slug": "commons-ognl__dormant_",
+    "name": "Apache Commons OGNL (Dormant)",
+    "homepage": "http://commons.apache.org/ognl/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-ognl"
+    ]
+  },
+  {
+    "slug": "commons-pool",
+    "name": "Apache Commons Pool",
+    "homepage": "http://commons.apache.org/pool/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-pool"
+    ]
+  },
+  {
+    "slug": "commons-proxy__dormant_",
+    "name": "Apache Commons Proxy (Dormant)",
+    "homepage": "http://commons.apache.org/proxy/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-proxy"
+    ]
+  },
+  {
+    "slug": "commons-rdf",
+    "name": "Apache Commons RDF",
+    "homepage": "https://commons.apache.org/rdf/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-rdf.git"
+    ]
+  },
+  {
+    "slug": "commons-rng",
+    "name": "Apache Commons RNG",
+    "homepage": "https://commons.apache.org/rng/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-rng.git"
+    ]
+  },
+  {
+    "slug": "commons-scxml",
+    "name": "Apache Commons SCXML",
+    "homepage": "http://commons.apache.org/scxml/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-scxml.git"
+    ]
+  },
+  {
+    "slug": "commons-statistics",
+    "name": "Apache Commons Statistics",
+    "homepage": "http://commons.apache.org/statistics/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-statistics.git"
+    ]
+  },
+  {
+    "slug": "commons-text",
+    "name": "Apache Commons Text",
+    "homepage": "http://commons.apache.org/text/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-text.git"
+    ]
+  },
+  {
+    "slug": "commons-validator",
+    "name": "Apache Commons Validator",
+    "homepage": "http://commons.apache.org/validator/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-validator"
+    ]
+  },
+  {
+    "slug": "commons-vfs",
+    "name": "Apache Commons VFS",
+    "homepage": "http://commons.apache.org/vfs/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-vfs"
+    ]
+  },
+  {
+    "slug": "commons-weaver",
+    "name": "Apache Commons Weaver",
+    "homepage": "http://commons.apache.org/weaver/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/commons-weaver"
+    ]
+  },
+  {
+    "slug": "comdev-community_development",
+    "name": "Apache Community Development",
+    "homepage": "https://community.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/comdev-site.git",
+      "https://gitbox.apache.org/repos/asf/comdev-events-site.git",
+      "https://svn.apache.org/repos/asf/comdev/projects.apache.org/",
+      "https://svn.apache.org/repos/asf/comdev/reporter.apache.org/"
+    ]
+  },
+  {
+    "slug": "ant-compress",
+    "name": "Apache Compress Ant Library",
+    "homepage": "http://ant.apache.org/antlibs/compress/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-compress.git"
+    ]
+  },
+  {
+    "slug": "attic-continuum",
+    "name": "Apache Continuum",
+    "homepage": "http://continuum.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/continuum"
+    ]
+  },
+  {
+    "slug": "cordova",
+    "name": "Apache Cordova",
+    "homepage": "https://cordova.apache.org",
+    "repositories": [
+      "https://github.com/apache/cordova.git"
+    ]
+  },
+  {
+    "slug": "couchdb",
+    "name": "Apache CouchDB",
+    "homepage": "https://couchdb.apache.org/",
+    "repositories": [
+      "https://github.com/apache/couchdb"
+    ]
+  },
+  {
+    "slug": "attic-crunch",
+    "name": "Apache Crunch",
+    "homepage": "http://crunch.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/crunch.git"
+    ]
+  },
+  {
+    "slug": "ctakes",
+    "name": "Apache cTAKES",
+    "homepage": "https://github.com/apache/ctakes",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/ctakes/ctakes-models/trunk/",
+      "https://github.com/apache/ctakes"
+    ]
+  },
+  {
+    "slug": "curator",
+    "name": "Apache Curator",
+    "homepage": "http://curator.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/curator.git"
+    ]
+  },
+  {
+    "slug": "cxf",
+    "name": "Apache CXF",
+    "homepage": "https://cxf.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/cxf.git"
+    ]
+  },
+  {
+    "slug": "ant-cyclonedx",
+    "name": "Apache CycloneDX Ant Library",
+    "homepage": "http://ant.apache.org/antlibs/cyclonedx/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-cyclonedx.git"
+    ]
+  },
+  {
+    "slug": "daffodil",
+    "name": "Apache Daffodil",
+    "homepage": "https://daffodil.apache.org",
+    "repositories": [
+      "https://github.com/apache/daffodil",
+      "https://github.com/apache/daffodil-site"
+    ]
+  },
+  {
+    "slug": "datafu",
+    "name": "Apache DataFu",
+    "homepage": "http://datafu.apache.org/",
+    "repositories": [
+      "https://git.apache.org/repos/asf/datafu.git"
+    ]
+  },
+  {
+    "slug": "datafusion",
+    "name": "Apache DataFusion",
+    "homepage": "https://datafusion.apache.org",
+    "repositories": [
+      "https://github.com/apache/datafusion.git"
+    ]
+  },
+  {
+    "slug": "datasketches",
+    "name": "Apache datasketches",
+    "homepage": "https://datasketches.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-deltacloud",
+    "name": "Apache Deltacloud",
+    "homepage": "http://deltacloud.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "deltaspike",
+    "name": "Apache DeltaSpike",
+    "homepage": "http://deltaspike.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "db-derby",
+    "name": "Apache Derby",
+    "homepage": "http://db.apache.org/derby",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/db/derby/code/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-devicemap",
+    "name": "Apache DeviceMap",
+    "homepage": "http://devicemap.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/devicemap"
+    ]
+  },
+  {
+    "slug": "devlake",
+    "name": "Apache Devlake",
+    "homepage": "https://devlake.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-directmemory",
+    "name": "Apache DirectMemory",
+    "homepage": "http://directmemory.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/directmemory/trunk/"
+    ]
+  },
+  {
+    "slug": "directory-ldap_api",
+    "name": "Apache Directory LDAP API",
+    "homepage": "https://directory.apache.org/api",
+    "repositories": [
+      "https://github.com/apache/directory-ldap-api"
+    ]
+  },
+  {
+    "slug": "directory-server",
+    "name": "Apache Directory Server",
+    "homepage": "https://directory.apache.org/apacheds",
+    "repositories": [
+      "https://github.com/apache/directory-server"
+    ]
+  },
+  {
+    "slug": "directory-studio",
+    "name": "Apache Directory Studio",
+    "homepage": "https://directory.apache.org/studio/",
+    "repositories": [
+      "https://github.com/apache/directory-studio"
+    ]
+  },
+  {
+    "slug": "dolphinscheduler",
+    "name": "Apache Dolphinscheduler",
+    "homepage": "https://dolphinscheduler.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "doris",
+    "name": "Apache Doris",
+    "homepage": "https://doris.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/doris.git"
+    ]
+  },
+  {
+    "slug": "drill",
+    "name": "Apache Drill",
+    "homepage": "http://drill.apache.org",
+    "repositories": [
+      "git://git.apache.org/drill.git"
+    ]
+  },
+  {
+    "slug": "druid",
+    "name": "Apache Druid",
+    "homepage": "https://druid.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "dubbo",
+    "name": "Apache Dubbo",
+    "homepage": "https://dubbo.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "echarts",
+    "name": "Apache ECharts",
+    "homepage": "https://echarts.apache.org",
+    "repositories": [
+      "https://github.com/apache/echarts.git"
+    ]
+  },
+  {
+    "slug": "attic-ecs",
+    "name": "Apache ECS",
+    "homepage": "http://jakarta.apache.org/ecs/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jakarta/ecs/"
+    ]
+  },
+  {
+    "slug": "empire-db",
+    "name": "Apache Empire-db",
+    "homepage": "https://empire-db.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-esme",
+    "name": "Apache ESME",
+    "homepage": "http://esme.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/esme"
+    ]
+  },
+  {
+    "slug": "attic-etch",
+    "name": "Apache Etch",
+    "homepage": "http://etch.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/etch"
+    ]
+  },
+  {
+    "slug": "eventmesh",
+    "name": "Apache EventMesh",
+    "homepage": "https://eventmesh.apache.org",
+    "repositories": [
+      "https://github.com/apache/eventmesh"
+    ]
+  },
+  {
+    "slug": "attic-excalibur",
+    "name": "Apache Excalibur",
+    "homepage": "http://excalibur.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/excalibur/"
+    ]
+  },
+  {
+    "slug": "attic-falcon",
+    "name": "Apache Falcon",
+    "homepage": "http://falcon.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/falcon",
+      "https://gitbox.apache.org/repos/asf?p=falcon.git"
+    ]
+  },
+  {
+    "slug": "felix",
+    "name": "Apache Felix",
+    "homepage": "http://felix.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/felix"
+    ]
+  },
+  {
+    "slug": "fineract",
+    "name": "Apache Fineract",
+    "homepage": "https://fineract.apache.org",
+    "repositories": [
+      "https://github.com/apache/fineract"
+    ]
+  },
+  {
+    "slug": "flagon",
+    "name": "Apache Flagon",
+    "homepage": "https://flagon.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "flex",
+    "name": "Apache Flex",
+    "homepage": "http://flex.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "flink",
+    "name": "Apache Flink",
+    "homepage": "http://flink.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/flink/",
+      "https://gitbox.apache.org/repos/asf/flink.git"
+    ]
+  },
+  {
+    "slug": "logging-flume",
+    "name": "Apache Flume",
+    "homepage": "http://flume.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "accumulo-fluo",
+    "name": "Apache Fluo",
+    "homepage": "https://fluo.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/accumulo-fluo.git"
+    ]
+  },
+  {
+    "slug": "accumulo-fluo_recipes",
+    "name": "Apache Fluo Recipes",
+    "homepage": "https://fluo.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/accumulo-fluo-recipes.git"
+    ]
+  },
+  {
+    "slug": "accumulo-fluo_yarn",
+    "name": "Apache Fluo YARN",
+    "homepage": "https://fluo.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/accumulo-fluo-yarn.git"
+    ]
+  },
+  {
+    "slug": "xmlgraphics-fop",
+    "name": "Apache FOP",
+    "homepage": "http://xmlgraphics.apache.org/fop",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xmlgraphics/fop/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-forrest",
+    "name": "Apache Forrest",
+    "homepage": "http://forrest.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/forrest/trunk/"
+    ]
+  },
+  {
+    "slug": "directory-fortress",
+    "name": "Apache Fortress",
+    "homepage": "https://directory.apache.org/fortress/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/directory-fortress-core.git",
+      "https://gitbox.apache.org/repos/asf/directory-fortress-commander.git",
+      "https://gitbox.apache.org/repos/asf/directory-enmasse-core.git",
+      "https://gitbox.apache.org/repos/asf/directory-fortress-realm.git"
+    ]
+  },
+  {
+    "slug": "fory",
+    "name": "Apache Fory",
+    "homepage": "https://fory.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "freemarker",
+    "name": "Apache FreeMarker",
+    "homepage": "https://freemarker.apache.org",
+    "repositories": [
+      "git://git.apache.org/freemarker.git"
+    ]
+  },
+  {
+    "slug": "mina-ftpserver",
+    "name": "Apache FtpServer",
+    "homepage": "http://mina.apache.org/ftpserver-project",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/mina/ftpserver"
+    ]
+  },
+  {
+    "slug": "geode",
+    "name": "Apache Geode",
+    "homepage": "https://geode.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/geode.git"
+    ]
+  },
+  {
+    "slug": "geronimo",
+    "name": "Apache Geronimo",
+    "homepage": "http://geronimo.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/geronimo/"
+    ]
+  },
+  {
+    "slug": "attic-giraph",
+    "name": "Apache Giraph",
+    "homepage": "http://giraph.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/giraph.git"
+    ]
+  },
+  {
+    "slug": "gluten",
+    "name": "Apache Gluten",
+    "homepage": "https://gluten.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "gobblin",
+    "name": "Apache Gobblin",
+    "homepage": "https://gobblin.apache.org",
+    "repositories": [
+      "https://github.com/apache/gobblin"
+    ]
+  },
+  {
+    "slug": "attic-gora",
+    "name": "Apache Gora",
+    "homepage": "http://gora.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/gora/trunk/"
+    ]
+  },
+  {
+    "slug": "grails",
+    "name": "Apache Grails",
+    "homepage": "https://grails.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/grails-core.git"
+    ]
+  },
+  {
+    "slug": "gravitino",
+    "name": "Apache Gravitino",
+    "homepage": "https://gravitino.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-griffin",
+    "name": "Apache Griffin",
+    "homepage": "http://griffin.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/griffin.git"
+    ]
+  },
+  {
+    "slug": "groovy",
+    "name": "Apache Groovy",
+    "homepage": "http://groovy.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/groovy.git"
+    ]
+  },
+  {
+    "slug": "guacamole",
+    "name": "Apache Guacamole",
+    "homepage": "http://guacamole.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "gump",
+    "name": "Apache Gump",
+    "homepage": "http://gump.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/gump/"
+    ]
+  },
+  {
+    "slug": "hadoop",
+    "name": "Apache Hadoop",
+    "homepage": "https://hadoop.apache.org/",
+    "repositories": [
+      "https://github.com/apache/hadoop"
+    ]
+  },
+  {
+    "slug": "attic-hama",
+    "name": "Apache Hama",
+    "homepage": "http://hama.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/hama/trunk"
+    ]
+  },
+  {
+    "slug": "attic-harmony",
+    "name": "Apache Harmony",
+    "homepage": "http://harmony.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/harmony/"
+    ]
+  },
+  {
+    "slug": "hbase",
+    "name": "Apache HBase",
+    "homepage": "https://hbase.apache.org",
+    "repositories": [
+      "git://gitbox.apache.org/repos/asf/hbase.git"
+    ]
+  },
+  {
+    "slug": "helix",
+    "name": "Apache Helix",
+    "homepage": "http://helix.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "hertzbeat",
+    "name": "Apache Hertzbeat",
+    "homepage": "https://hertzbeat.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "hive",
+    "name": "Apache Hive",
+    "homepage": "http://hive.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/hive/"
+    ]
+  },
+  {
+    "slug": "attic-hivemind",
+    "name": "Apache Hivemind",
+    "homepage": "http://hivemind.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/hivemind "
+    ]
+  },
+  {
+    "slug": "hop",
+    "name": "Apache Hop",
+    "homepage": "https://hop.apache.org",
+    "repositories": [
+      "https://github.com/apache/hop.git"
+    ]
+  },
+  {
+    "slug": "httpd-http_server",
+    "name": "Apache HTTP Server",
+    "homepage": "https://httpd.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/httpd/httpd/"
+    ]
+  },
+  {
+    "slug": "httpcomponents-client",
+    "name": "Apache HttpComponents Client",
+    "homepage": "http://hc.apache.org/httpcomponents-client/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/httpcomponents/httpclient/trunk"
+    ]
+  },
+  {
+    "slug": "httpcomponents-core",
+    "name": "Apache HttpComponents Core",
+    "homepage": "http://hc.apache.org/httpcomponents-core/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/httpcomponents/httpcore/trunk"
+    ]
+  },
+  {
+    "slug": "hudi",
+    "name": "Apache Hudi",
+    "homepage": "https://hudi.apache.org",
+    "repositories": [
+      "https://github.com/apache/hudi.git"
+    ]
+  },
+  {
+    "slug": "hugegraph",
+    "name": "Apache Hugegraph",
+    "homepage": "https://hugegraph.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "iceberg",
+    "name": "Apache Iceberg",
+    "homepage": "https://iceberg.apache.org",
+    "repositories": [
+      "https://github.com/apache/iceberg"
+    ]
+  },
+  {
+    "slug": "ignite",
+    "name": "Apache Ignite",
+    "homepage": "http://ignite.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ignite.git"
+    ]
+  },
+  {
+    "slug": "impala",
+    "name": "Apache Impala",
+    "homepage": "https://impala.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/impala.git"
+    ]
+  },
+  {
+    "slug": "inlong",
+    "name": "Apache InLong",
+    "homepage": "https://inlong.apache.org",
+    "repositories": [
+      "https://git@github.com:apache/inlong.git"
+    ]
+  },
+  {
+    "slug": "iotdb",
+    "name": "Apache IoTDB",
+    "homepage": "http://iotdb.apache.org",
+    "repositories": [
+      "https://github.com/apache/iotdb.git"
+    ]
+  },
+  {
+    "slug": "ant-ivy",
+    "name": "Apache Ivy",
+    "homepage": "http://ant.apache.org/ivy/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-ivy.git"
+    ]
+  },
+  {
+    "slug": "ant-ivyde",
+    "name": "Apache IvyDE",
+    "homepage": "http://ant.apache.org/ivyde/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-ivyde.git"
+    ]
+  },
+  {
+    "slug": "jackrabbit",
+    "name": "Apache Jackrabbit",
+    "homepage": "http://jackrabbit.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jackrabbit/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-jakarta_cactus",
+    "name": "Apache Jakarta Cactus",
+    "homepage": "http://jakarta.apache.org/cactus",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jakarta/cactus/"
+    ]
+  },
+  {
+    "slug": "james",
+    "name": "Apache JAMES",
+    "homepage": "http://james.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/james/server/trunk"
+    ]
+  },
+  {
+    "slug": "attic-jclouds",
+    "name": "Apache jclouds",
+    "homepage": "http://jclouds.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "db-jdo",
+    "name": "Apache JDO",
+    "homepage": "https://db.apache.org/jdo/",
+    "repositories": [
+      "https://github.com/apache/db-jdo"
+    ]
+  },
+  {
+    "slug": "jena",
+    "name": "Apache Jena",
+    "homepage": "http://jena.apache.org",
+    "repositories": [
+      "git://git.apache.org/jena.git"
+    ]
+  },
+  {
+    "slug": "jmeter",
+    "name": "Apache JMeter",
+    "homepage": "http://jmeter.apache.org/index.html",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/jmeter.git"
+    ]
+  },
+  {
+    "slug": "johnzon",
+    "name": "Apache Johnzon",
+    "homepage": "https://johnzon.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "jspwiki",
+    "name": "Apache JSPWiki",
+    "homepage": "http://jspwiki.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jspwiki/"
+    ]
+  },
+  {
+    "slug": "juneau",
+    "name": "Apache Juneau",
+    "homepage": "https://juneau.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "kafka",
+    "name": "Apache Kafka",
+    "homepage": "https://kafka.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/kafka.git"
+    ]
+  },
+  {
+    "slug": "karaf",
+    "name": "Apache Karaf",
+    "homepage": "http://karaf.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/karaf/"
+    ]
+  },
+  {
+    "slug": "directory-kerby",
+    "name": "Apache Kerby",
+    "homepage": "https://directory.apache.org/kerby/",
+    "repositories": [
+      "https://github.com/apache/directory-kerby"
+    ]
+  },
+  {
+    "slug": "attic-kibble",
+    "name": "Apache Kibble",
+    "homepage": "https://kibble.apache.org",
+    "repositories": [
+      "https://github.com/apache/kibble-1.git"
+    ]
+  },
+  {
+    "slug": "knox",
+    "name": "Apache Knox",
+    "homepage": "https://knox.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/knox.git"
+    ]
+  },
+  {
+    "slug": "kudu",
+    "name": "Apache Kudu",
+    "homepage": "https://kudu.apache.org",
+    "repositories": [
+      "git://git.apache.org/kudu.git"
+    ]
+  },
+  {
+    "slug": "kvrocks",
+    "name": "Apache Kvrocks",
+    "homepage": "https://kvrocks.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "kylin",
+    "name": "Apache Kylin",
+    "homepage": "https://kylin.apache.org",
+    "repositories": [
+      "https://github.com/apache/kylin"
+    ]
+  },
+  {
+    "slug": "kyuubi",
+    "name": "Apache Kyuubi",
+    "homepage": "https://kyuubi.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-lens",
+    "name": "Apache Lens",
+    "homepage": "http://lens.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/lens.git"
+    ]
+  },
+  {
+    "slug": "attic-lenya",
+    "name": "Apache Lenya",
+    "homepage": "http://lenya.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/lenya/trunk/"
+    ]
+  },
+  {
+    "slug": "libcloud",
+    "name": "Apache Libcloud",
+    "homepage": "http://libcloud.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/libcloud/trunk/"
+    ]
+  },
+  {
+    "slug": "linkis",
+    "name": "Apache Linkis",
+    "homepage": "https://linkis.apache.org/",
+    "repositories": [
+      "https://github.com/apache/linkis"
+    ]
+  },
+  {
+    "slug": "livy",
+    "name": "Apache Livy",
+    "homepage": "https://livy.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "logging-log4cxx",
+    "name": "Apache log4cxx",
+    "homepage": "https://logging.apache.org/log4cxx",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/logging-log4cxx.git"
+    ]
+  },
+  {
+    "slug": "logging-log4net",
+    "name": "Apache log4net",
+    "homepage": "https://logging.apache.org/log4net/",
+    "repositories": [
+      "https://github.com/apache/logging-log4net"
+    ]
+  },
+  {
+    "slug": "logging-log4php",
+    "name": "Apache log4php",
+    "homepage": "http://logging.apache.org/log4php/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/logging/log4php/trunk"
+    ]
+  },
+  {
+    "slug": "lucene-core",
+    "name": "Apache Lucene Core",
+    "homepage": "https://lucene.apache.org/core/",
+    "repositories": []
+  },
+  {
+    "slug": "lucenenet-lucenedotnet",
+    "name": "Apache Lucene.Net",
+    "homepage": "http://lucenenet.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "attic-lucy",
+    "name": "Apache Lucy",
+    "homepage": "http://lucy.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "madlib",
+    "name": "Apache Madlib",
+    "homepage": "https://madlib.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "mahout",
+    "name": "Apache Mahout",
+    "homepage": "http://mahout.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/mahout/trunk"
+    ]
+  },
+  {
+    "slug": "manifoldcf",
+    "name": "Apache ManifoldCF",
+    "homepage": "https://manifoldcf.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/manifoldcf.git",
+      "https://svn.apache.org/repos/asf/manifoldcf"
+    ]
+  },
+  {
+    "slug": "attic-marmotta",
+    "name": "Apache Marmotta",
+    "homepage": "http://marmotta.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "maven",
+    "name": "Apache Maven",
+    "homepage": "https://maven.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/maven.git",
+      "https://gitbox.apache.org/repos/asf/maven-integration-testing.git"
+    ]
+  },
+  {
+    "slug": "maven-doxia",
+    "name": "Apache Maven Doxia",
+    "homepage": "https://maven.apache.org/doxia/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/maven-doxia.git",
+      "https://gitbox.apache.org/repos/asf/maven-doxia-sitetools.git",
+      "https://gitbox.apache.org/repos/asf/maven-doxia-converter.git",
+      "https://gitbox.apache.org/repos/asf/maven-doxia-linkcheck.git",
+      "http://svn.apache.org/repos/asf/maven/doxia/doxia-tools/trunk/",
+      "http://svn.apache.org/repos/asf/maven/doxia/site/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-mesos",
+    "name": "Apache Mesos",
+    "homepage": "http://mesos.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/mesos/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-metamodel",
+    "name": "Apache MetaModel",
+    "homepage": "http://metamodel.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "mina",
+    "name": "Apache MINA",
+    "homepage": "http://mina.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/mina"
+    ]
+  },
+  {
+    "slug": "httpd-mod_ftp",
+    "name": "Apache mod_ftp",
+    "homepage": "https://httpd.apache.org/mod_ftp/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/httpd/mod_ftp/"
+    ]
+  },
+  {
+    "slug": "perl-mod_perl",
+    "name": "Apache mod_perl",
+    "homepage": "http://perl.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/perl/modperl/trunk/",
+      "http://svn.apache.org/repos/asf/perl/modperl/docs/trunk",
+      "http://svn.apache.org/repos/asf/perl/Apache-Test/trunk/",
+      "http://svn.apache.org/repos/asf/perl/Apache-SizeLimit/trunk/",
+      "http://svn.apache.org/repos/asf/perl/Apache-Reload/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-mrunit",
+    "name": "Apache MRUnit",
+    "homepage": "http://mrunit.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-mxnet",
+    "name": "Apache MXNet",
+    "homepage": "https://mxnet.apache.org",
+    "repositories": [
+      "https://github.com/apache/mxnet"
+    ]
+  },
+  {
+    "slug": "myfaces",
+    "name": "Apache MyFaces",
+    "homepage": "http://myfaces.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/myfaces.git"
+    ]
+  },
+  {
+    "slug": "mynewt",
+    "name": "Apache Mynewt",
+    "homepage": "https://mynewt.apache.org",
+    "repositories": [
+      "https://github.com/apache/mynewt-core.git"
+    ]
+  },
+  {
+    "slug": "ws-neethi",
+    "name": "Apache Neethi",
+    "homepage": "https://ws.apache.org/neethi/",
+    "repositories": [
+      "https://github.com/apache/ws-neethi"
+    ]
+  },
+  {
+    "slug": "netbeans",
+    "name": "Apache NetBeans",
+    "homepage": "https://netbeans.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/netbeans.git"
+    ]
+  },
+  {
+    "slug": "nifi",
+    "name": "Apache NiFi",
+    "homepage": "https://nifi.apache.org/",
+    "repositories": [
+      "https://github.com/apache/nifi"
+    ]
+  },
+  {
+    "slug": "nutch",
+    "name": "Apache Nutch",
+    "homepage": "https://nutch.apache.org",
+    "repositories": [
+      "https://github.com/apache/nutch.git"
+    ]
+  },
+  {
+    "slug": "nuttx",
+    "name": "Apache Nuttx",
+    "homepage": "https://nuttx.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-ode",
+    "name": "Apache ODE",
+    "homepage": "http://ode.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/ode"
+    ]
+  },
+  {
+    "slug": "ofbiz",
+    "name": "Apache OFBiz",
+    "homepage": "http://ofbiz.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-olingo",
+    "name": "Apache Olingo",
+    "homepage": "http://olingo.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-oltu_-_parent",
+    "name": "Apache Oltu - Parent",
+    "homepage": "https://oltu.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/oltu/trunk/parent",
+      "https://svn.apache.org/repos/asf/oltu/trunk/parent"
+    ]
+  },
+  {
+    "slug": "attic-oodt",
+    "name": "Apache OODT",
+    "homepage": "http://oodt.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/oodt.git"
+    ]
+  },
+  {
+    "slug": "attic-oozie",
+    "name": "Apache Oozie",
+    "homepage": "http://oozie.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/oozie.git"
+    ]
+  },
+  {
+    "slug": "attic-open_climate_workbench",
+    "name": "Apache Open Climate Workbench",
+    "homepage": "http://climate.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/climate.git"
+    ]
+  },
+  {
+    "slug": "opendal",
+    "name": "Apache OpenDAL",
+    "homepage": "https://opendal.apache.org/",
+    "repositories": [
+      "https://github.com/apache/opendal.git"
+    ]
+  },
+  {
+    "slug": "openjpa",
+    "name": "Apache OpenJPA",
+    "homepage": "http://openjpa.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/openjpa/"
+    ]
+  },
+  {
+    "slug": "openmeetings",
+    "name": "Apache OpenMeetings",
+    "homepage": "https://openmeetings.apache.org/",
+    "repositories": [
+      "https://github.com/apache/openmeetings.git"
+    ]
+  },
+  {
+    "slug": "opennlp",
+    "name": "Apache OpenNLP",
+    "homepage": "http://opennlp.apache.org",
+    "repositories": [
+      "https://github.com/apache/opennlp.git"
+    ]
+  },
+  {
+    "slug": "openoffice",
+    "name": "Apache OpenOffice",
+    "homepage": "https://openoffice.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/openoffice.git"
+    ]
+  },
+  {
+    "slug": "openwebbeans",
+    "name": "Apache OpenWebBeans",
+    "homepage": "http://openwebbeans.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/openwebbeans"
+    ]
+  },
+  {
+    "slug": "openwhisk",
+    "name": "Apache Openwhisk",
+    "homepage": "https://openwhisk.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "orc",
+    "name": "Apache ORC",
+    "homepage": "https://orc.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/orc.git"
+    ]
+  },
+  {
+    "slug": "attic-oro",
+    "name": "Apache ORO",
+    "homepage": "http://jakarta.apache.org/oro/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jakarta/oro/"
+    ]
+  },
+  {
+    "slug": "ozone",
+    "name": "Apache Ozone",
+    "homepage": "https://ozone.apache.org/",
+    "repositories": [
+      "https://github.com/apache/ozone.git"
+    ]
+  },
+  {
+    "slug": "paimon",
+    "name": "Apache Paimon",
+    "homepage": "https://paimon.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "parquet",
+    "name": "Apache Parquet",
+    "homepage": "http://parquet.apache.org",
+    "repositories": [
+      "https://git.apache.org/repos/asf?p=parquet-java.git"
+    ]
+  },
+  {
+    "slug": "pdfbox",
+    "name": "Apache PDFBox",
+    "homepage": "https://pdfbox.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/pdfbox"
+    ]
+  },
+  {
+    "slug": "pekko",
+    "name": "Apache Pekko",
+    "homepage": "https://pekko.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "petri",
+    "name": "Apache Petri",
+    "homepage": "http://petri.apache.org",
+    "repositories": [
+      "https://github.com/apache/petri/"
+    ]
+  },
+  {
+    "slug": "phoenix",
+    "name": "Apache Phoenix",
+    "homepage": "http://phoenix.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "pig",
+    "name": "Apache Pig",
+    "homepage": "http://pig.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/pig/"
+    ]
+  },
+  {
+    "slug": "pinot",
+    "name": "Apache Pinot",
+    "homepage": "https://pinot.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/pinot.git"
+    ]
+  },
+  {
+    "slug": "attic-pivot",
+    "name": "Apache Pivot",
+    "homepage": "http://pivot.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/pivot/trunk/"
+    ]
+  },
+  {
+    "slug": "plc4x",
+    "name": "Apache PLC4X",
+    "homepage": "https://plc4x.apache.org/",
+    "repositories": [
+      "https://github.com/apache/plc4x.git"
+    ]
+  },
+  {
+    "slug": "poi",
+    "name": "Apache POI",
+    "homepage": "https://poi.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/poi/"
+    ]
+  },
+  {
+    "slug": "polaris",
+    "name": "Apache Polaris",
+    "homepage": "https://polaris.apache.org",
+    "repositories": [
+      "https://github.com/apache/polaris"
+    ]
+  },
+  {
+    "slug": "attic-polygene",
+    "name": "Apache Polygene",
+    "homepage": "https://polygene.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/polygene/"
+    ]
+  },
+  {
+    "slug": "apr-portable_runtime",
+    "name": "Apache Portable Runtime",
+    "homepage": "https://apr.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/apr/apr/trunk"
+    ]
+  },
+  {
+    "slug": "attic-portals",
+    "name": "Apache Portals",
+    "homepage": "http://portals.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/portals"
+    ]
+  },
+  {
+    "slug": "attic-predictionio",
+    "name": "Apache PredictionIO",
+    "homepage": "http://predictionio.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/predictionio.git"
+    ]
+  },
+  {
+    "slug": "ant-props",
+    "name": "Apache Props Ant Library",
+    "homepage": "http://ant.apache.org/antlibs/props/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-props.git"
+    ]
+  },
+  {
+    "slug": "pulsar",
+    "name": "Apache Pulsar",
+    "homepage": "https://pulsar.apache.org/",
+    "repositories": [
+      "https://github.com/apache/pulsar.git"
+    ]
+  },
+  {
+    "slug": "lucene-pylucene",
+    "name": "Apache PyLucene",
+    "homepage": "https://lucene.apache.org/pylucene/index.html",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/lucene/pylucene/"
+    ]
+  },
+  {
+    "slug": "qpid",
+    "name": "Apache Qpid",
+    "homepage": "http://qpid.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/qpid/trunk/qpid/",
+      "https://svn.apache.org/repos/asf/qpid/proton/trunk/"
+    ]
+  },
+  {
+    "slug": "ranger",
+    "name": "Apache Ranger",
+    "homepage": "https://ranger.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ranger.git"
+    ]
+  },
+  {
+    "slug": "creadur-rat",
+    "name": "Apache Rat",
+    "homepage": "http://creadur.apache.org/rat/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/creadur/rat/trunk/"
+    ]
+  },
+  {
+    "slug": "ratis",
+    "name": "Apache Ratis",
+    "homepage": "https://ratis.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-reef",
+    "name": "Apache REEF",
+    "homepage": "http://reef.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/reef.git"
+    ]
+  },
+  {
+    "slug": "attic-regexp",
+    "name": "Apache Regexp",
+    "homepage": "http://jakarta.apache.org/regexp/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/jakarta/regexp/"
+    ]
+  },
+  {
+    "slug": "attic-river",
+    "name": "Apache River",
+    "homepage": "http://river.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/river"
+    ]
+  },
+  {
+    "slug": "tcl-rivet",
+    "name": "Apache rivet",
+    "homepage": "https://tcl.apache.org/rivet",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/tcl-rivet.git"
+    ]
+  },
+  {
+    "slug": "rocketmq",
+    "name": "Apache Rocketmq",
+    "homepage": "https://rocketmq.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "roller",
+    "name": "Apache Roller",
+    "homepage": "http://roller.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/roller/"
+    ]
+  },
+  {
+    "slug": "royale",
+    "name": "Apache Royale",
+    "homepage": "https://royale.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "rya",
+    "name": "Apache Rya",
+    "homepage": "https://rya.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "samza",
+    "name": "Apache Samza",
+    "homepage": "http://samza.apache.org/",
+    "repositories": [
+      "https://github.com/apache/samza.git"
+    ]
+  },
+  {
+    "slug": "axis-sandesha2",
+    "name": "Apache Sandesha2",
+    "homepage": "http://axis.apache.org/axis2/java/sandesha/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/axis/axis2/java/sandesha/trunk"
+    ]
+  },
+  {
+    "slug": "santuario",
+    "name": "Apache Santuario",
+    "homepage": "https://santuario.apache.org",
+    "repositories": [
+      "https://github.com/apache/santuario-xml-security-java"
+    ]
+  },
+  {
+    "slug": "sdap",
+    "name": "Apache Sdap",
+    "homepage": "https://sdap.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "seatunnel",
+    "name": "Apache SeaTunnel",
+    "homepage": "https://seatunnel.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/seatunnel.git"
+    ]
+  },
+  {
+    "slug": "sedona",
+    "name": "Apache Sedona",
+    "homepage": "https://sedona.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "serf",
+    "name": "Apache Serf",
+    "homepage": "https://serf.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/serf/trunk"
+    ]
+  },
+  {
+    "slug": "servicecomb",
+    "name": "Apache Servicecomb",
+    "homepage": "https://servicecomb.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-servicemix",
+    "name": "Apache ServiceMix",
+    "homepage": "http://servicemix.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/servicemix/"
+    ]
+  },
+  {
+    "slug": "attic-shale",
+    "name": "Apache Shale",
+    "homepage": "http://shale.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/shale/"
+    ]
+  },
+  {
+    "slug": "shardingsphere",
+    "name": "Apache Shardingsphere",
+    "homepage": "https://shardingsphere.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "shenyu",
+    "name": "Apache Shenyu",
+    "homepage": "https://shenyu.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-shindig",
+    "name": "Apache Shindig",
+    "homepage": "http://shindig.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/shindig"
+    ]
+  },
+  {
+    "slug": "shiro",
+    "name": "Apache Shiro",
+    "homepage": "https://shiro.apache.org/",
+    "repositories": [
+      "git:https://gitbox.apache.org/repos/asf/shiro.git",
+      "git:https://gitbox.apache.org/repos/asf/shiro.git"
+    ]
+  },
+  {
+    "slug": "singa",
+    "name": "Apache Singa",
+    "homepage": "https://singa.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "skywalking",
+    "name": "Apache SkyWalking",
+    "homepage": "http://skywalking.apache.org",
+    "repositories": [
+      "git://gitbox.apache.org/repos/asf/skywalking.git"
+    ]
+  },
+  {
+    "slug": "sling",
+    "name": "Apache Sling",
+    "homepage": "http://sling.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/sling/"
+    ]
+  },
+  {
+    "slug": "solr",
+    "name": "Apache Solr",
+    "homepage": "http://solr.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf?p=solr.git"
+    ]
+  },
+  {
+    "slug": "solr-operator",
+    "name": "Apache Solr Operator",
+    "homepage": "https://solr.apache.org/operator",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/solr-operator.git"
+    ]
+  },
+  {
+    "slug": "spamassassin",
+    "name": "Apache SpamAssassin",
+    "homepage": "https://spamassassin.apache.org/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/spamassassin/trunk"
+    ]
+  },
+  {
+    "slug": "spark",
+    "name": "Apache Spark",
+    "homepage": "http://spark.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "sis-spatial_information_system",
+    "name": "Apache Spatial Information System",
+    "homepage": "http://sis.apache.org/",
+    "repositories": [
+      "https://github.com/apache/sis"
+    ]
+  },
+  {
+    "slug": "attic-sqoop",
+    "name": "Apache Sqoop",
+    "homepage": "http://sqoop.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/sqoop.git"
+    ]
+  },
+  {
+    "slug": "mina-sshd",
+    "name": "Apache SSHD",
+    "homepage": "http://mina.apache.org/sshd-project",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/mina/sshd"
+    ]
+  },
+  {
+    "slug": "attic-stanbol",
+    "name": "Apache Stanbol",
+    "homepage": "http://stanbol.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/stanbol/trunk/"
+    ]
+  },
+  {
+    "slug": "steve",
+    "name": "Apache Steve",
+    "homepage": "http://steve.apache.org",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/steve/trunk"
+    ]
+  },
+  {
+    "slug": "storm",
+    "name": "Apache Storm",
+    "homepage": "http://storm.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "stormcrawler",
+    "name": "Apache Stormcrawler",
+    "homepage": "https://stormcrawler.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-stratos",
+    "name": "Apache Stratos",
+    "homepage": "http://stratos.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "streampark",
+    "name": "Apache Streampark",
+    "homepage": "https://streampark.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "streampipes",
+    "name": "Apache Streampipes",
+    "homepage": "https://streampipes.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "struts",
+    "name": "Apache Struts",
+    "homepage": "http://struts.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-submarine",
+    "name": "Apache Submarine",
+    "homepage": "https://submarine.apache.org",
+    "repositories": [
+      "https://github.com/apache/submarine.git"
+    ]
+  },
+  {
+    "slug": "subversion",
+    "name": "Apache Subversion",
+    "homepage": "http://subversion.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/subversion/trunk"
+    ]
+  },
+  {
+    "slug": "superset",
+    "name": "Apache Superset",
+    "homepage": "https://superset.apache.org",
+    "repositories": [
+      "https://github.com/apache/superset.git"
+    ]
+  },
+  {
+    "slug": "synapse",
+    "name": "Apache Synapse",
+    "homepage": "http://synapse.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/synapse/trunk/java"
+    ]
+  },
+  {
+    "slug": "syncope",
+    "name": "Apache Syncope",
+    "homepage": "http://syncope.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "systemds",
+    "name": "Apache Systemds",
+    "homepage": "https://systemds.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-tajo",
+    "name": "Apache Tajo",
+    "homepage": "http://tajo.apache.org",
+    "repositories": [
+      "https://github.com/apache/tajo.git"
+    ]
+  },
+  {
+    "slug": "tapestry",
+    "name": "Apache Tapestry",
+    "homepage": "http://tapestry.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/tapestry-5.git"
+    ]
+  },
+  {
+    "slug": "teaclave",
+    "name": "Apache Teaclave",
+    "homepage": "https://teaclave.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "creadur-tentacles",
+    "name": "Apache Tentacles",
+    "homepage": "http://creadur.apache.org/tentacles",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/creadur/tentacles/"
+    ]
+  },
+  {
+    "slug": "velocity-texen",
+    "name": "Apache Texen",
+    "homepage": "http://velocity.apache.org/texen/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/velocity/texen/trunk"
+    ]
+  },
+  {
+    "slug": "tez",
+    "name": "Apache Tez",
+    "homepage": "http://tez.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/tez.git"
+    ]
+  },
+  {
+    "slug": "thrift",
+    "name": "Apache Thrift",
+    "homepage": "http://thrift.apache.org",
+    "repositories": [
+      "https://github.com/apache/thrift.git"
+    ]
+  },
+  {
+    "slug": "tika",
+    "name": "Apache Tika",
+    "homepage": "https://tika.apache.org",
+    "repositories": [
+      "https://github.com/apache/tika.git"
+    ]
+  },
+  {
+    "slug": "attic-tiles",
+    "name": "Apache Tiles",
+    "homepage": "http://tiles.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/tiles"
+    ]
+  },
+  {
+    "slug": "tinkerpop",
+    "name": "Apache Tinkerpop",
+    "homepage": "https://tinkerpop.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "myfaces-tobago",
+    "name": "Apache Tobago",
+    "homepage": "http://myfaces.apache.org/#/tobago",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/myfaces-tobago.git"
+    ]
+  },
+  {
+    "slug": "tomcat",
+    "name": "Apache Tomcat",
+    "homepage": "http://tomcat.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/tomcat.git"
+    ]
+  },
+  {
+    "slug": "tomee",
+    "name": "Apache TomEE",
+    "homepage": "http://tomee.apache.org",
+    "repositories": [
+      "http://svn.apache.org/viewvc/tomee/tomee/trunk/",
+      "https://svn.apache.org/repos/asf/tomee/tomee/trunk"
+    ]
+  },
+  {
+    "slug": "db-torque",
+    "name": "Apache Torque",
+    "homepage": "https://db.apache.org/torque/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/db/torque/trunk/"
+    ]
+  },
+  {
+    "slug": "attic-traffic_control",
+    "name": "Apache Traffic Control",
+    "homepage": "https://trafficcontrol.apache.org",
+    "repositories": [
+      "https://github.com/apache/trafficcontrol.git"
+    ]
+  },
+  {
+    "slug": "trafficserver-traffic_server",
+    "name": "Apache Traffic Server",
+    "homepage": "https://trafficserver.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "attic-trafodion",
+    "name": "Apache Trafodion",
+    "homepage": "http://trafodion.apache.org",
+    "repositories": [
+      "http://gitbox.apache.org/repos/asf/trafodion.git"
+    ]
+  },
+  {
+    "slug": "training",
+    "name": "Apache Training",
+    "homepage": "https://training.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "tsfile",
+    "name": "Apache TsFile",
+    "homepage": "https://tsfile.apache.org",
+    "repositories": [
+      "https://github.com/apache/tsfile.git"
+    ]
+  },
+  {
+    "slug": "turbine",
+    "name": "Apache Turbine",
+    "homepage": "https://turbine.apache.org",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/turbine-core.git"
+    ]
+  },
+  {
+    "slug": "attic-tuscany",
+    "name": "Apache Tuscany",
+    "homepage": "http://tuscany.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/tuscany/sca-java-2.x/",
+      "git://git.apache.org/tuscany-sca-2.x.git"
+    ]
+  },
+  {
+    "slug": "tvm",
+    "name": "Apache TVM",
+    "homepage": "https://tvm.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "uima",
+    "name": "Apache UIMA",
+    "homepage": "http://uima.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/uima/"
+    ]
+  },
+  {
+    "slug": "uniffle",
+    "name": "Apache Uniffle",
+    "homepage": "https://uniffle.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "unomi",
+    "name": "Apache Unomi",
+    "homepage": "https://unomi.apache.org",
+    "repositories": [
+      "https://github.com/apache/unomi"
+    ]
+  },
+  {
+    "slug": "vcl",
+    "name": "Apache VCL",
+    "homepage": "http://vcl.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "velocity",
+    "name": "Apache Velocity",
+    "homepage": "http://velocity.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/velocity/engine/trunk"
+    ]
+  },
+  {
+    "slug": "velocity-dvsl",
+    "name": "Apache Velocity DVSL",
+    "homepage": "http://velocity.apache.org/dvsl/devel/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/velocity/dvsl/trunk"
+    ]
+  },
+  {
+    "slug": "velocity-tools",
+    "name": "Apache Velocity Tools",
+    "homepage": "http://velocity.apache.org/velocity/tools/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/velocity/tools/trunk"
+    ]
+  },
+  {
+    "slug": "ant-vss",
+    "name": "Apache VSS Ant Library",
+    "homepage": "http://ant.apache.org/antlibs/proper.html",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/ant-antlibs-vss.git"
+    ]
+  },
+  {
+    "slug": "attic-vxquery",
+    "name": "Apache VXQuery",
+    "homepage": "http://vxquery.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/vxquery.git"
+    ]
+  },
+  {
+    "slug": "mina-vysper",
+    "name": "Apache Vysper",
+    "homepage": "http://mina.apache.org/vysper-project",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/mina/vysper"
+    ]
+  },
+  {
+    "slug": "wayang",
+    "name": "Apache Wayang",
+    "homepage": "https://wayang.apache.org",
+    "repositories": []
+  },
+  {
+    "slug": "tcl-websh",
+    "name": "Apache Websh",
+    "homepage": "http://tcl.apache.org/websh",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/tcl/websh/trunk"
+    ]
+  },
+  {
+    "slug": "whimsy",
+    "name": "Apache Whimsy",
+    "homepage": "http://whimsy.apache.org/",
+    "repositories": [
+      "https://github.com/apache/whimsy.git",
+      "https://gitbox.apache.org/repos/asf/whimsy.git"
+    ]
+  },
+  {
+    "slug": "attic-whirr",
+    "name": "Apache Whirr",
+    "homepage": "http://whirr.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/whirr/"
+    ]
+  },
+  {
+    "slug": "creadur-whisker",
+    "name": "Apache Whisker",
+    "homepage": "http://creadur.apache.org/whisker",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/creadur/whisker/"
+    ]
+  },
+  {
+    "slug": "wicket",
+    "name": "Apache Wicket",
+    "homepage": "https://wicket.apache.org",
+    "repositories": [
+      "https://github.com/apache/wicket"
+    ]
+  },
+  {
+    "slug": "attic-wink",
+    "name": "Apache Wink",
+    "homepage": "http://wink.apache.org",
+    "repositories": [
+      "http://svn.apache.org/viewvc/wink",
+      "git://git.apache.org/wink.git"
+    ]
+  },
+  {
+    "slug": "ws-woden",
+    "name": "Apache Woden",
+    "homepage": "http://ws.apache.org/woden/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/webservices/woden/"
+    ]
+  },
+  {
+    "slug": "attic-wookie",
+    "name": "Apache Wookie",
+    "homepage": "http://wookie.apache.org",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/wookie/trunk"
+    ]
+  },
+  {
+    "slug": "ws-wss4j",
+    "name": "Apache WSS4J",
+    "homepage": "https://ws.apache.org/wss4j/",
+    "repositories": [
+      "https://github.com/apache/ws-wss4j"
+    ]
+  },
+  {
+    "slug": "xalan-for_c++_xslt_processor",
+    "name": "Apache Xalan for C++ XSLT Processor",
+    "homepage": "http://xalan.apache.org/xalan-c",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/xalan/c/trunk/"
+    ]
+  },
+  {
+    "slug": "xalan-for_java_xslt_processor",
+    "name": "Apache Xalan for Java XSLT Processor",
+    "homepage": "http://xalan.apache.org/xalan-j/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/xalan-java.git"
+    ]
+  },
+  {
+    "slug": "xerces-for_c++_xml_parser",
+    "name": "Apache Xerces for C++ XML Parser",
+    "homepage": "http://xerces.apache.org/xerces-c/",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/xerces/c/trunk"
+    ]
+  },
+  {
+    "slug": "xerces-for_java_xml_parser",
+    "name": "Apache Xerces for Java XML Parser",
+    "homepage": "http://xerces.apache.org/xerces2-j/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xerces/java/trunk/"
+    ]
+  },
+  {
+    "slug": "xerces-for_perl_xml_parser",
+    "name": "Apache Xerces for Perl XML Parser",
+    "homepage": "http://xerces.apache.org/xerces-p",
+    "repositories": [
+      "https://svn.apache.org/repos/asf/xerces/xerces-p/trunk"
+    ]
+  },
+  {
+    "slug": "attic-xindice",
+    "name": "Apache Xindice",
+    "homepage": "http://xml.apache.org/xindice/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xml/xindice/trunk/"
+    ]
+  },
+  {
+    "slug": "xerces-xml_commons_external",
+    "name": "Apache XML Commons External",
+    "homepage": "http://xerces.apache.org/xml-commons/components/external/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xerces/xml-commons/"
+    ]
+  },
+  {
+    "slug": "xerces-xml_commons_resolver",
+    "name": "Apache XML Commons Resolver",
+    "homepage": "http://xerces.apache.org/xml-commons/components/resolver/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xerces/xml-commons/"
+    ]
+  },
+  {
+    "slug": "xmlgraphics-xml_graphics_commons",
+    "name": "Apache XML Graphics Commons",
+    "homepage": "http://xmlgraphics.apache.org/commons/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xmlgraphics/commons/trunk/"
+    ]
+  },
+  {
+    "slug": "poi-xmlbeans",
+    "name": "Apache XMLBeans",
+    "homepage": "https://xmlbeans.apache.org/",
+    "repositories": [
+      "http://svn.apache.org/repos/asf/xmlbeans/trunk/"
+    ]
+  },
+  {
+    "slug": "ws-xmlschema",
+    "name": "Apache XMLSchema",
+    "homepage": "https://ws.apache.org/xmlschema/",
+    "repositories": [
+      "https://github.com/apache/ws-xmlschema"
+    ]
+  },
+  {
+    "slug": "yetus",
+    "name": "Apache Yetus",
+    "homepage": "https://yetus.apache.org/",
+    "repositories": [
+      "https://github.com/apache/yetus.git"
+    ]
+  },
+  {
+    "slug": "yunikorn",
+    "name": "Apache YuniKorn",
+    "homepage": "https://yunikorn.apache.org",
+    "repositories": [
+      "https://github.com/apache/yunikorn-core.git",
+      "https://github.com/apache/yunikorn-k8shim.git",
+      "https://github.com/apache/yunikorn-scheduler-interface.git",
+      "https://github.com/apache/yunikorn-web.git",
+      "https://github.com/apache/yunikorn-site.git",
+      "https://github.com/apache/yunikorn-release.git"
+    ]
+  },
+  {
+    "slug": "zeppelin",
+    "name": "Apache Zeppelin",
+    "homepage": "http://zeppelin.apache.org/",
+    "repositories": []
+  },
+  {
+    "slug": "zookeeper",
+    "name": "Apache ZooKeeper",
+    "homepage": "https://zookeeper.apache.org/",
+    "repositories": [
+      "https://gitbox.apache.org/repos/asf/zookeeper.git"
+    ]
+  },
+  {
+    "slug": "logging-log4j",
+    "name": "Log4j",
+    "homepage": "https://logging.apache.org/log4j/2.x/index.html",
+    "repositories": [
+      "https://github.com/apache/logging-log4j2.git"
+    ]
+  }
+]
